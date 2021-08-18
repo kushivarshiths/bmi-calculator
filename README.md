@@ -16,6 +16,6 @@ int main() {
  bmi = weight/(height*height) ;
  std::cout << "\nYour BMI is: "<< bmi <<"\n";
 
-\return 0;
+return 0;
 
 }
